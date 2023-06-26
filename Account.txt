@@ -1,0 +1,14 @@
+
+Name : yurex
+Account No.: 1
+20000$ had been deposited to your account 
+Date/time of transaction: Tue Jun 27 00:43:10 2023
+
+
+10000$ had been withdrawn from your account 
+Date/Time of transaction: Tue Jun 27 00:43:17 2023
+
+
+5000$ had been transferred from your account to Account No. 200.
+Date/Time of transaction:  Tue Jun 27 00:43:28 2023
+
